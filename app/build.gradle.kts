@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.zenbhatt.newrelicdemo"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.zenbhatt.newrelicdemo"
